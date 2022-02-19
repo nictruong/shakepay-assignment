@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shakepay-assignment/static/css/main.7ec40922.css",
-    "main.js": "/shakepay-assignment/static/js/main.e064070d.js",
-    "static/js/787.62542dd8.chunk.js": "/shakepay-assignment/static/js/787.62542dd8.chunk.js",
-    "static/media/logo.svg": "/shakepay-assignment/static/media/logo.82a917b3bfd1387d07104db1584258f1.svg",
-    "static/media/currency btc.svg": "/shakepay-assignment/static/media/currency btc.ae24d9dbe2a69128e55c5c754ea29e49.svg",
-    "static/media/currency cad.svg": "/shakepay-assignment/static/media/currency cad.97baa0ef25fdeb8d47d914fd1ccc9ec2.svg",
-    "static/media/cashin.svg": "/shakepay-assignment/static/media/cashin.40216f4211283d298b765b14bb9cd853.svg",
-    "static/media/cashout.svg": "/shakepay-assignment/static/media/cashout.e532dd594df6f425441ba92b23dc9ef0.svg",
-    "index.html": "/shakepay-assignment/index.html",
-    "static/media/currency eth.svg": "/shakepay-assignment/static/media/currency eth.04e3c90e0758ea96419bbb6f1aa49cf8.svg",
-    "static/media/exchange.svg": "/shakepay-assignment/static/media/exchange.35c0a6f612a7a5d863fbbae3e5293949.svg",
-    "main.7ec40922.css.map": "/shakepay-assignment/static/css/main.7ec40922.css.map",
-    "main.e064070d.js.map": "/shakepay-assignment/static/js/main.e064070d.js.map",
-    "787.62542dd8.chunk.js.map": "/shakepay-assignment/static/js/787.62542dd8.chunk.js.map"
+    "main.css": "/static/css/main.7ec40922.css",
+    "main.js": "/static/js/main.ab8598fc.js",
+    "static/js/787.62542dd8.chunk.js": "/static/js/787.62542dd8.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.82a917b3bfd1387d07104db1584258f1.svg",
+    "static/media/currency btc.svg": "/static/media/currency btc.ae24d9dbe2a69128e55c5c754ea29e49.svg",
+    "static/media/currency cad.svg": "/static/media/currency cad.97baa0ef25fdeb8d47d914fd1ccc9ec2.svg",
+    "static/media/cashin.svg": "/static/media/cashin.40216f4211283d298b765b14bb9cd853.svg",
+    "static/media/cashout.svg": "/static/media/cashout.e532dd594df6f425441ba92b23dc9ef0.svg",
+    "static/media/currency eth.svg": "/static/media/currency eth.04e3c90e0758ea96419bbb6f1aa49cf8.svg",
+    "index.html": "/index.html",
+    "static/media/exchange.svg": "/static/media/exchange.35c0a6f612a7a5d863fbbae3e5293949.svg",
+    "main.7ec40922.css.map": "/static/css/main.7ec40922.css.map",
+    "main.ab8598fc.js.map": "/static/js/main.ab8598fc.js.map",
+    "787.62542dd8.chunk.js.map": "/static/js/787.62542dd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ec40922.css",
-    "static/js/main.e064070d.js"
+    "static/js/main.ab8598fc.js"
   ]
 }
