@@ -1,0 +1,27 @@
+.currency-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  color: black;
+}
+
+.currency-left {
+  display: flex;
+}
+
+.currency-icon {
+  padding: 0 10px 0 5px;
+}
+
+.currency-label {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.crypto-data {
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.3);
+}
